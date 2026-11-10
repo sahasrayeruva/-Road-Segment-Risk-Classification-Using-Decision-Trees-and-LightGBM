@@ -235,10 +235,9 @@ This project is developed for educational, research, and experimental purposes. 
 
 ## 👨‍💻 Author
 
-**Sahasra Yeruva
-  Mahathi Chekka**
+**Sahasra Yeruva**
 
-B.Tech – Computer Science & Information Technology
+B.Tech – Artificial Intelligence and Data Science
 
 GitHub: [sahasrayeruva](https://github.com/sahasrayeruva)
 
