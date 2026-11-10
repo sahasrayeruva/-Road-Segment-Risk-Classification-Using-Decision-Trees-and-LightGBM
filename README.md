@@ -239,7 +239,7 @@ This project is developed for educational, research, and experimental purposes. 
 
 B.Tech – Computer Science & Information Technology
 
-GitHub: [YOUR-GITHUB-USERNAME](https://github.com/sahasrayeruva)
+GitHub: [sahasrayeruva](https://github.com/sahasrayeruva)
 
 ---
 
