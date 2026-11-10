@@ -235,7 +235,8 @@ This project is developed for educational, research, and experimental purposes. 
 
 ## 👨‍💻 Author
 
-**Tarun Babu Vishnumsetti**
+**Sahasra Yeruva
+  Mahathi Chekka**
 
 B.Tech – Computer Science & Information Technology
 
